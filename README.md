@@ -15,4 +15,4 @@ Projetos desenvolvidos na aual de Programação Orientada a objetos
 2. Clone este repositório:
 
    ```bash
-   git clone [https://github.com/luanrobert07/java.git]
+   git clone https://github.com/luanrobert07/java.git
