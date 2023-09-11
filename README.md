@@ -1,6 +1,6 @@
 # Projetos em Java
 
-## Tabela de Conteúdo
+## Conteúdo
 
 - [Visão Geral](#visão-geral)
 - [Como Usar](#como-usar)
